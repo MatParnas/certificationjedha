@@ -1,4 +1,4 @@
-Check out the projet presentation here: https://share.vidyard.com/watch/iZGkMp183ddKisJZ5jF5Ve?
+Check out the projet presentation here: https://share.vidyard.com/watch/WJqfgahgpVsA6oFaHiEwwt?
 
 MuseGen demo video: https://share.vidyard.com/watch/bsEUg8R77JVVEGGCbbv52v?
 
