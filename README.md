@@ -1,4 +1,4 @@
-# Dans ce repo, vous trouverez les diffents projets relatifs à la certification d'état de concepteur développeur en science des données
+# Dans ce repo, vous trouverez les differents projets relatifs à la certification nationale de concepteur développeur en science des données (Master 1)
 
 
 Bloc1 : Construction et alimentation d'une infrastructure de gestion de donnees
